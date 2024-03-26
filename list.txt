@@ -1,0 +1,18 @@
+International Conference on Principles of Knowledge Representation and Reasoning (KR)
+- Core: A*
+- 2023: 23%
+- 2020: 34%
+
+International Conference on Automated Deduction (CADE)
+- Core; A
+- 2023: 43%
+
+ International
+Conference on Database Theory (ICDT)
+- Core: A
+
+European Conference on Artificial Intelligence (ECAI)
+- Core: A
+
+Theory and Applications of Satisfiability Testing - SAT
+- Core: A
