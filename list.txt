@@ -1,3 +1,5 @@
+
+Data Mining:
 International Conference on Principles of Knowledge Representation and Reasoning (KR)
 - Core: A*
 - 2023: 23%
@@ -16,3 +18,8 @@ European Conference on Artificial Intelligence (ECAI)
 
 Theory and Applications of Satisfiability Testing - SAT
 - Core: A
+
+Computer vision:
+ACCV
+- CORE: B
+- 2022: 33.4%(279/836)
