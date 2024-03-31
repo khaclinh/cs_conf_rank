@@ -23,3 +23,14 @@ Computer vision:
 ACCV
 - CORE: B
 - 2022: 33.4%(279/836)
+
+Intelligent Transportations
+ITSC:
+- CORE: (maybe) B
+- 2020: 60.8% (570/939)
+- 2022: 50.88 (636/1250)
+- 2023: ? (928/?)
+IV:
+- CORE: B
+- 2022: 50% (250/250)
+- 2023: ? (306/?)
